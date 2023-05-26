@@ -36,7 +36,7 @@ HTML | CSS | JavaScript | React.js | Sass | Express.js | MongoDB | Postman | Boo
 Our team decided to create a travel app that allowed users to view activities for each country and add them to their own personal itinerary. 
 To begin, we utilised Excalidraw to plan the app's layout and functionality, incorporating potential stretch goals. We then concentrated our efforts on developing the back-end API and utilised Jira to organise tasks and assign responsibilities to individual team members. This allowed us to begin working on our respective tasks independently, while also participating in group coding for more significant tasks. I was assigned the userModel, userController and the Auth middleware in the backend. In the frontend I built the login and country page.  
 
-<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/8574565c-0f15-4107-bdc3-77597e14dcaa" alt="Project Wireframe">
-<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/87781de3-b51f-4903-8946-9c9f77a8820a" alt="Project Wireframe">
-<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/2083ff7c-4758-4281-b0cc-f5e1cfbc0629" alt="Project Wireframe">
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/8574565c-0f15-4107-bdc3-77597e14dcaa" alt="Project Wireframe" width="500">
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/87781de3-b51f-4903-8946-9c9f77a8820a" alt="Project Wireframe" width="500">
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/2083ff7c-4758-4281-b0cc-f5e1cfbc0629" alt="Project Wireframe" width="500">
 
