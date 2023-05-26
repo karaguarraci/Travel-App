@@ -12,7 +12,18 @@ You can login with the details below:
 
 ## Application Visuals
 
-<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/c1702d44-1dd2-459e-b126-e483619b1d6c" alt="app screenshot" width="350">
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/c1702d44-1dd2-459e-b126-e483619b1d6c" alt="app screenshot" width="300">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/59f673ab-e398-4494-8842-221695637343" width="300">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/3568459a-af21-4f19-9d17-cc44696fa4b0" width="300">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/9be4389f-5f64-4efe-b8bd-3a809d3805d9" width="300">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/710cb88b-5f07-491e-a908-4ca2716c9176" width="300">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/9aa4c5ab-8d7f-4726-a97a-c7c3e01fe67f" width="300">
+
+## Responsive Design
+
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/bb3ad8fa-8b80-4a24-bf5c-d7a59ec82d98" width="200">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/6e2b19f8-2b79-4c7e-add6-db24331f73af" width="200">
+<img src="https://github.com/karaguarraci/Travel-API/assets/115991254/059bf5ce-fda5-4948-88f6-4c8b28cf1bea" width="200">
 
 
 ## Tech Stack
