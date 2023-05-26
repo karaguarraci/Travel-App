@@ -17,7 +17,12 @@ You can login with the details below:
 
 ## Tech Stack
 
-HTML | CSS | JavaScript | React.js | Sass | Express.js | MongoDB | Postman | Bootstrap | JIRA | Excalidraw | Slack
+#### Frontend
+JavaScript  | React | React Router Dom | Axios | HTML | CSS | Sass | Bootstrap
+#### Backend
+Node.js | Express.js | MongoDB | Mongoose | MongoDBAtlas | JSON Web Token (JWT)
+#### Development and Deployment
+Npm | Git | GitHub | Slack | Excalidraw | Postman | Jira | Mongo Atlas | Render | Netlify
 
 ## Project Brief
 
