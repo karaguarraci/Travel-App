@@ -2,6 +2,8 @@
 
 This project involved building a MERN full stack app with CRUD functionality. We created a travel app where users could view activities by country and add them to a personal itinerary. Additionally, users could add their own activities to a country and update them. For the back-end API development, we utilised MongoDB and Express. To effectively manage the project, we utilised Jira and Excalidraw to plan and assign tasks.
 
+This repo contains code for the frontend only. Code for the backend can be found [here](https://github.com/karaguarraci/Travel-API).
+
 Check out the live [Design My Trip](https://designmytrip.netlify.app/) site.
 
 You can login with the details below:
