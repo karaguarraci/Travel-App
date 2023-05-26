@@ -40,3 +40,7 @@ To begin, we utilised Excalidraw to plan the app's layout and functionality, inc
 <img src="https://github.com/karaguarraci/Travel-App/assets/115991254/87781de3-b51f-4903-8946-9c9f77a8820a" alt="Project Wireframe" width="500">
 <img src="https://github.com/karaguarraci/Travel-App/assets/115991254/2083ff7c-4758-4281-b0cc-f5e1cfbc0629" alt="Project Wireframe" width="500">
 
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/da98f91b-3e04-4c34-beb1-fd9a47948d76" alt="Project Wireframe" width="500">
+<img src="https://github.com/karaguarraci/Travel-App/assets/115991254/7f3e2fe2-0c97-4175-be4c-c9476041ecd7" alt="Project Wireframe" width="250">
+
+
